@@ -1,0 +1,16 @@
+C:\Applications\FormTranslator\FormTranslator\bin\Release\net10.0-windows\FormTranslator.exe
+C:\Applications\FormTranslator\FormTranslator\bin\Release\net10.0-windows\FormTranslator.deps.json
+C:\Applications\FormTranslator\FormTranslator\bin\Release\net10.0-windows\FormTranslator.runtimeconfig.json
+C:\Applications\FormTranslator\FormTranslator\bin\Release\net10.0-windows\FormTranslator.dll
+C:\Applications\FormTranslator\FormTranslator\bin\Release\net10.0-windows\FormTranslator.pdb
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.Form1.resources
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.csproj.GenerateResource.cache
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.AssemblyInfoInputs.cache
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.AssemblyInfo.cs
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.csproj.CoreCompileInputs.cache
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.dll
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\refint\FormTranslator.dll
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.pdb
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\FormTranslator.genruntimeconfig.cache
+C:\Applications\FormTranslator\FormTranslator\obj\Release\net10.0-windows\ref\FormTranslator.dll
